@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sui:home|Door43 (sui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sui|d43-sui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sui/archive/master.zip|d43-sui.zip]]
+
+**Recent Changes**
+{{changes>ns = sui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sui|Ethnologue data]]
+
